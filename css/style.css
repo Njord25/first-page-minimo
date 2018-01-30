@@ -1,0 +1,176 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper{
+  width: 1064px;
+  margin:0 auto;
+}
+
+.clearfix:after {
+     visibility: hidden;
+     display: block;
+     font-size: 0;
+     content: " ";
+     clear: both;
+     height: 0;
+}
+.clearfix { display: block; }
+
+body{
+
+}
+
+p{
+  font-size: 14px;
+  color: #A6ACAF;
+  font-family: 'Display-Regular',serif;
+}
+
+a{
+  text-decoration: none;
+  color: #1C2833;
+}
+
+h2{
+  color: #626262;
+  font-family: 'Display-Regular',serif;
+  font-size: 30px;
+  font-weight: lighter;
+  margin-bottom: 40px;
+  margin-top: 30px;
+}
+
+h5{
+  color: #A6ACAF;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: lighter;
+  margin-top: 98px;
+  margin-bottom: 135px;
+
+}
+
+.parent .box p{
+  color: #626262;
+  font-size: 14px;
+
+}
+
+.life{
+  margin-top: 32px;
+  margin-bottom: 30px;
+}
+
+.photo{
+  margin-top: 32px;
+  margin-bottom: 30px;
+}
+
+
+.header{
+  margin-top: 70px;
+  margin-bottom: 91px;
+
+  }
+
+.menu{
+  margin-top: 44px;
+  float: right;
+  list-style: none;
+}
+
+.menu li{
+  display: inline;
+  margin-left: 100px;
+}
+
+.menu li:first-child{
+  margin-left: 0px;
+}
+
+.menu a:hover{
+  color: #D4AC0D;
+}
+
+.mainContent{
+  clear: both;
+}
+
+.wrapper2{
+  width: 900px;
+  margin:0 auto;
+
+}
+
+.box{
+  float: left;
+  width: 428px;
+  margin-bottom: 135px;
+  margin-right: 44px;
+
+}
+
+.parent .box:last-child{
+  margin-right: 0px;
+}
+
+.contenedorSign{
+  width: 100%;
+  margin:0 auto;
+}
+input{
+    width: 290px;
+    border-color: transparent;
+    padding: 10px;
+    font-family: 'Display-Regular',serif;
+    border-bottom: 1px solid black;
+    font-size: 15px;
+    background: transparent;
+}
+
+
+
+
+.inscription{
+  background-color:#f0f0f0;
+  float: left;
+  width: 100%;
+  padding: 75px 0px 75px 0px;
+  text-align: center;
+  margin:0 auto;
+}
+
+
+.wrapper3{
+  width: 900px;
+  margin:0 auto;
+
+}
+
+.box1{
+  float: left;
+  width: 428px;
+  margin-top: 103px;
+  margin-right: 44px;
+  margin-bottom: 103px;
+}
+
+.parent .box1:last-child{
+  margin-right: 0px;
+}
+
+.loadre
+{
+  width: 165px;
+  height: 58px;
+  margin: 0 auto;
+  display: block;
+  clear: both;
+  background-color: white;
+  border: 1px solid #646262;
+  font-size: 25px;
+  color: #646262;
+  margin-bottom: 100px;
+  font-family: 'Playfair Display', serif;
+}
